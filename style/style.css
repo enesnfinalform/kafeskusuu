@@ -88,7 +88,7 @@ z-index: 1000;
 /* home start*/
 .home{
     min-height: 100vh;
-    background: url(/images/arkaplan.png)
+    background: url(./images/arkaplan.png)
     no-repeat;
     background-size: cover;
     background-position: center;
